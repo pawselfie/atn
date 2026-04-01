@@ -1,0 +1,121 @@
+{
+    "projects": [
+        {
+        "name": "Deepsea Hive Builder",
+        "type": "Website",
+        "url": "https://deepseahb.vercel.app/"
+        },
+        {
+        "name": "Beequip Simulator",
+        "type": "Desktop App",
+        "url": "https://discord.com/channels/1448341880315056150/1481925070288060466",
+        "discordExclusive": true
+        },
+        {
+        "name": "VIP Snatcher",
+        "type": "Desktop App",
+        "url": "https://github.com/pawselfie/vip-snatcher"
+        }
+    ],
+    "discordInvite": "https://discord.gg/kwq5txw53M",
+    "guides": [
+        {
+        "name": "The Complete Alt Account Guide",
+        "url": "https://docs.google.com/document/d/1YBr50HjItMv-AC0C61tDR9zqZiTXXx0Dq9JcUbKoY6c/edit?tab=t.0",
+        "image": ""
+        },
+        {
+        "name": "The Definitive White Hive Guide",
+        "url": "https://docs.google.com/document/d/1WwpRUvpM7i5LpxVoGzjgjVzy6da3xAOmZ9ZxHHL5qzk/edit?tab=t.0#heading=h.naocuarx61v4",
+        "image": ""
+        },
+        {
+        "name": "The Definitive Red Hive Guide",
+        "url": "https://docs.google.com/document/d/10a954MytMtI_GEBC75iAWvxYT_M2_jrLBknIjR9J1Yk/edit?usp=sharing",
+        "image": ""
+        },
+        {
+        "name": "The Definitive Blue Hive Guide",
+        "url": "https://docs.google.com/document/d/1R095Aufo1fAX09IRDYzcxgvu8KZf0JfTLpjb4oXu28Q/edit?usp=sharing",
+        "image": ""
+        },
+        {
+        "name": "The Perfect Blue Macro Setup",
+        "url": "https://docs.google.com/document/d/1YE9tNOvQSrNYkDF6u0H9_m1_ilUUuvu-CU2halZTMPk/edit?usp=drivesdk",
+        "image": ""
+        },
+        {
+        "name": "The Definitive Pop Gum Guide",
+        "url": "https://docs.google.com/document/d/1U5syGURh2_MZhKK7RG8mKiz8xO13cM4eyL4JoKfs2_o/edit?usp=drivesdk",
+        "image": ""
+        },
+        {
+        "name": "Hourly Report Dissection Manual",
+        "url": "https://docs.google.com/document/d/1gKa2GwBobee3XgFY17nZcANLmwW7KG2XyYDbZDNLm3g/edit?usp=sharing",
+        "image": ""
+        },
+        {
+        "name": "Complete Earlygame Progression Guide",
+        "url": "https://docs.google.com/document/d/12wvnfNINTc5qElT0T_BcK2i1IWv7_Vv58yTifcFQxc4/edit?tab=t.0",
+        "image": ""
+        },
+        {
+        "name": "Complete Early Red Progression Guide",
+        "url": "https://docs.google.com/document/d/1VyH79WZEGu45BeolqepNPj-xXWqbFXkSz_uymAwmRhs/edit?usp=drivesdk",
+        "image": ""
+        },
+        {
+        "name": "The Official Blue RBC Guide",
+        "url": "https://docs.google.com/document/d/1eaFV5GEiEsdN4xgNJI1ZqmuU-SlwyL7LmMT4U_I9be0/edit?usp=drivesdk",
+        "image": ""
+        },
+        {
+        "name": "Proper RBC Guide",
+        "url": "https://docs.google.com/document/d/1q4RSp_-a4QUjnFqQBzvUk4VdVjoCKr9EB16ILv9DUYE/edit?usp=sharing",
+        "image": ""
+        },
+        {
+        "name": "The Definitive Stick Bug Guide",
+        "url": "https://docs.google.com/document/d/1-2lpqnMgiMp51kAIIBLm18uSFAGk6qSSFVRXa3zJwmg/edit?tab=t.0",
+        "image": ""
+        }
+    ],
+    "dataSheets": [
+        {
+            "name": "Beequip Statistics Spreadsheet",
+            "url":"https://docs.google.com/spreadsheets/d/1DFvWFNN7euft6ELtkif0BgORQIppZ3PnrLWwk0dfAEQ/edit?gid=476537347#gid=476537347",
+            "image": ""
+        },
+        {
+            "name": "Beequip Upgrade Weight Calculator",
+            "url": "https://docs.google.com/spreadsheets/d/1fDUvT_nnOaB3bCyYV2pueCUK5B7XxeXa2gHADVPjPgA/edit?gid=1897900559#gid=1897900559",
+            "image": ""
+        },
+        {
+            "name": "Unreleased Beequip Statistics Spreadsheet",
+            "url": "https://docs.google.com/spreadsheets/d/1JjNFksN9oWC83yp__RPI9Ewk6CAefC-7ssjFYeBzsiU/edit?gid=476537347#gid=476537347",
+            "image": ""
+        },
+        {
+            "name": "Planter Statistics Spreadsheet",
+            "url": "https://docs.google.com/spreadsheets/d/1_v41YnrrNuaWy-wgPUkuAZCiQdFYu4DVLqbzlYkCWB8/edit?gid=0#gid=0",
+            "image": ""
+        },
+        {
+            "name": "Ability Token Statistics Spreadsheet",
+            "url": "https://docs.google.com/spreadsheets/d/1J_-839-bUuO9hUhTiBzkCQmBhMWAaBb9pqei3RUjTMg/edit?gid=0#gid=0",
+            "image": ""
+        },
+        {
+            "name": "Sticker Planter Drops",
+            "url": "https://docs.google.com/spreadsheets/d/1VRhlWd0NrmVzYP6dWlbocMGXe0roAGxETOwPTkxd2Rk/edit?gid=303520698#gid=303520698",
+            "image": ""
+        },
+        {
+            "name": "Sticker Seeker Quest Rewards",
+            "url": "https://docs.google.com/spreadsheets/d/1VR8O72mS3eKk2hhwDId38OKVX3FYb3QZWXBcKVLrKvE/edit?gid=0#gid=0",
+            "image": ""
+        }
+    ]
+
+}
