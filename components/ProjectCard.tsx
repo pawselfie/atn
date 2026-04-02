@@ -4,15 +4,14 @@ import { toSlug } from "@/lib/data";
 import styles from "./ProjectCard.module.css";
 
 export default function ProjectCard({ project }: { project: Project }) {
-  const isDeepsea = project.name.toLowerCase().includes("deepsea");
   const isDesktopApp = project.type === "Desktop App";
 
   const content = (
     <>
       <div className={styles.iconArea}>
-        {isDeepsea ? (
+        {project.image ? (
           <img
-            src="/assets/deepsea/transparent_logo.png"
+            src={project.image}
             alt={project.name}
             className={styles.projectIcon}
           />

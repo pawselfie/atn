@@ -3,18 +3,21 @@
         {
         "name": "Deepsea Hive Builder",
         "type": "Website",
-        "url": "https://deepseahb.vercel.app/"
+        "url": "https://deepseahb.vercel.app/",
+        "image": "/assets/preview/dshb.png"
         },
         {
         "name": "Beequip Simulator",
         "type": "Desktop App",
         "url": "https://discord.com/channels/1448341880315056150/1481925070288060466",
-        "discordExclusive": true
+        "discordExclusive": true,
+        "image": "/assets/preview/sim.png"
         },
         {
         "name": "VIP Snatcher",
         "type": "Desktop App",
-        "url": "https://github.com/pawselfie/vip-snatcher"
+        "url": "https://github.com/pawselfie/vip-snatcher",
+        "image": "/assets/preview/vip.png"
         }
     ],
     "discordInvite": "https://discord.gg/kwq5txw53M",
@@ -84,37 +87,37 @@
         {
             "name": "Beequip Statistics Spreadsheet",
             "url":"https://docs.google.com/spreadsheets/d/1DFvWFNN7euft6ELtkif0BgORQIppZ3PnrLWwk0dfAEQ/edit?gid=476537347#gid=476537347",
-            "image": ""
+            "image": "/assets/preview/beequip.png"
         },
         {
             "name": "Beequip Upgrade Weight Calculator",
             "url": "https://docs.google.com/spreadsheets/d/1fDUvT_nnOaB3bCyYV2pueCUK5B7XxeXa2gHADVPjPgA/edit?gid=1897900559#gid=1897900559",
-            "image": ""
+            "image": "/assets/preview/upgrade.png"
         },
         {
             "name": "Unreleased Beequip Statistics Spreadsheet",
             "url": "https://docs.google.com/spreadsheets/d/1JjNFksN9oWC83yp__RPI9Ewk6CAefC-7ssjFYeBzsiU/edit?gid=476537347#gid=476537347",
-            "image": ""
+            "image": "/assets/preview/unreleased.png"
         },
         {
             "name": "Planter Statistics Spreadsheet",
             "url": "https://docs.google.com/spreadsheets/d/1_v41YnrrNuaWy-wgPUkuAZCiQdFYu4DVLqbzlYkCWB8/edit?gid=0#gid=0",
-            "image": ""
+            "image": "/assets/preview/planter.png"
         },
         {
             "name": "Ability Token Statistics Spreadsheet",
             "url": "https://docs.google.com/spreadsheets/d/1J_-839-bUuO9hUhTiBzkCQmBhMWAaBb9pqei3RUjTMg/edit?gid=0#gid=0",
-            "image": ""
+            "image": "/assets/preview/token.png"
         },
         {
             "name": "Sticker Planter Drops",
             "url": "https://docs.google.com/spreadsheets/d/1VRhlWd0NrmVzYP6dWlbocMGXe0roAGxETOwPTkxd2Rk/edit?gid=303520698#gid=303520698",
-            "image": ""
+            "image": "/assets/preview/stickerplanter.png"
         },
         {
             "name": "Sticker Seeker Quest Rewards",
             "url": "https://docs.google.com/spreadsheets/d/1VR8O72mS3eKk2hhwDId38OKVX3FYb3QZWXBcKVLrKvE/edit?gid=0#gid=0",
-            "image": ""
+            "image": "/assets/preview/seeker.png"
         }
     ]
 

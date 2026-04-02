@@ -5,6 +5,7 @@ export interface Project {
   type: string;
   url: string;
   discordExclusive?: boolean;
+  image?: string;
 }
 
 export interface Guide {
