@@ -6,6 +6,7 @@ import Background from "@/components/Background";
 import { data } from "@/lib/data";
 
 export const metadata: Metadata = {
+  metadataBase: new URL("https://abyssaltrench.net"),
   title: {
     default: "Abyss Network ⋅ Bee Swarm Simulator Guides, Tools & Data Sheets",
     template: "Abyss Network ⋅ %s",
@@ -53,7 +54,7 @@ export const metadata: Metadata = {
       "The ultimate Bee Swarm Simulator resource hub. Guides for every hive color, beequip stats, planter spreadsheets, macro setups, and community-built tools.",
     images: [
       {
-        url: "/assets/header.png",
+        url: "/assets/embed.png",
         width: 1200,
         height: 630,
         alt: "Abyss Network ⋅ Bee Swarm Simulator Resources",
@@ -65,7 +66,7 @@ export const metadata: Metadata = {
     title: "Abyss Network ⋅ Bee Swarm Simulator Guides, Tools & Data Sheets",
     description:
       "The ultimate BSS resource hub. Hive guides, beequip stats, planter data, macro setups, and community tools.",
-    images: ["/assets/header.png"],
+    images: ["/assets/embed.png"],
   },
   robots: {
     index: true,
