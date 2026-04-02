@@ -51,10 +51,10 @@ export const metadata: Metadata = {
     siteName: "Abyss Network",
     title: "Abyss Network ⋅ Bee Swarm Simulator Guides, Tools & Data Sheets",
     description:
-      "The ultimate Bee Swarm Simulator resource hub. Guides for every hive color, beequip stats, planter spreadsheets, macro setups, and community-built tools.",
+      "The ultimate Bee Swarm Simulator resource hub. Guides for every hive color, beequip stats, data spreadsheets, macro setups, and community-built tools.",
     images: [
       {
-        url: "/assets/embed.png",
+        url: "https://abyssaltrench.net/assets/embed.png",
         width: 1200,
         height: 630,
         alt: "Abyss Network ⋅ Bee Swarm Simulator Resources",
