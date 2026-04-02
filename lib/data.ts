@@ -29,6 +29,12 @@ export interface SiteData {
 
 export const data = siteData as SiteData;
 
+export const BASE_PATH = "/atn";
+
+export function assetPath(path: string | undefined): string {
+  return `${BASE_PATH}${path ?? ""}`;
+}
+
 export function toSlug(name: string): string {
   return name
     .toLowerCase()

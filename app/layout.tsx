@@ -43,7 +43,7 @@ export const metadata: Metadata = {
     "Deepsea Hive Builder",
   ],
   icons: {
-    icon: "/assets/logo.png",
+    icon: "/atn/assets/logo.png",
   },
   openGraph: {
     type: "website",
@@ -53,7 +53,7 @@ export const metadata: Metadata = {
       "The ultimate Bee Swarm Simulator resource hub. Guides for every hive color, beequip stats, planter spreadsheets, macro setups, and community-built tools.",
     images: [
       {
-        url: "/assets/header.png",
+        url: "/atn/assets/header.png",
         width: 1200,
         height: 630,
         alt: "Abyss Network ⋅ Bee Swarm Simulator Resources",
@@ -65,7 +65,7 @@ export const metadata: Metadata = {
     title: "Abyss Network ⋅ Bee Swarm Simulator Guides, Tools & Data Sheets",
     description:
       "The ultimate BSS resource hub. Hive guides, beequip stats, planter data, macro setups, and community tools.",
-    images: ["/assets/header.png"],
+    images: ["/atn/assets/header.png"],
   },
   robots: {
     index: true,

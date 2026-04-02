@@ -1,6 +1,7 @@
 "use client";
 
 import { useState } from "react";
+import { assetPath } from "@/lib/data";
 import styles from "./Footer.module.css";
 
 export default function Footer({ discordInvite }: { discordInvite: string }) {
@@ -11,7 +12,7 @@ export default function Footer({ discordInvite }: { discordInvite: string }) {
       {open && (
         <div className={styles.panel}>
           <img
-            src="/assets/logo.png"
+            src={assetPath("/assets/logo.png")}
             alt="Abyss Network"
             className={styles.logo}
           />

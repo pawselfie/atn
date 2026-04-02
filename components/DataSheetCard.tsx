@@ -1,6 +1,6 @@
 import Link from "next/link";
 import type { DataSheet } from "@/lib/data";
-import { toSlug } from "@/lib/data";
+import { toSlug, assetPath } from "@/lib/data";
 import styles from "./DataSheetCard.module.css";
 
 export default function DataSheetCard({ sheet }: { sheet: DataSheet }) {
@@ -8,7 +8,7 @@ export default function DataSheetCard({ sheet }: { sheet: DataSheet }) {
     <Link href={`/data/${toSlug(sheet.name)}`} className={styles.card}>
       {sheet.image && (
         <div className={styles.imageWrap}>
-          <img src={sheet.image} alt={sheet.name} className={styles.image} />
+          <img src={assetPath(sheet.image)} alt={sheet.name} className={styles.image} />
         </div>
       )}
       <div className={styles.body}>

@@ -1,3 +1,4 @@
+import { assetPath } from "@/lib/data";
 import styles from "./Hero.module.css";
 
 export default function Hero({ discordInvite }: { discordInvite: string }) {
@@ -5,7 +6,7 @@ export default function Hero({ discordInvite }: { discordInvite: string }) {
     <section className={styles.hero}>
       <div className={styles.content}>
         <img
-          src="/assets/logo.png"
+          src={assetPath("/assets/logo.png")}
           alt="Abyss Network"
           className={styles.logo}
         />

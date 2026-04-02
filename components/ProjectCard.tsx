@@ -1,6 +1,6 @@
 import Link from "next/link";
 import type { Project } from "@/lib/data";
-import { toSlug } from "@/lib/data";
+import { toSlug, assetPath } from "@/lib/data";
 import styles from "./ProjectCard.module.css";
 
 export default function ProjectCard({ project }: { project: Project }) {
@@ -11,7 +11,7 @@ export default function ProjectCard({ project }: { project: Project }) {
       <div className={styles.iconArea}>
         {project.image ? (
           <img
-            src={project.image}
+            src={assetPath(project.image)}
             alt={project.name}
             className={styles.projectIcon}
           />

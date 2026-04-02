@@ -1,6 +1,6 @@
 import Link from "next/link";
 import type { Guide } from "@/lib/data";
-import { toSlug } from "@/lib/data";
+import { toSlug, assetPath } from "@/lib/data";
 import styles from "./GuideCard.module.css";
 
 export default function GuideCard({ guide }: { guide: Guide }) {
@@ -8,7 +8,7 @@ export default function GuideCard({ guide }: { guide: Guide }) {
     <Link href={`/guides/${toSlug(guide.name)}`} className={styles.card}>
       {guide.image && (
         <div className={styles.imageWrap}>
-          <img src={guide.image} alt={guide.name} className={styles.image} />
+          <img src={assetPath(guide.image)} alt={guide.name} className={styles.image} />
         </div>
       )}
       <div className={styles.body}>

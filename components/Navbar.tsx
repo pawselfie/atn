@@ -3,6 +3,7 @@
 import { useState } from "react";
 import Link from "next/link";
 import { usePathname } from "next/navigation";
+import { assetPath } from "@/lib/data";
 import styles from "./Navbar.module.css";
 
 const NAV_LINKS = [
@@ -21,7 +22,7 @@ export default function Navbar({ discordInvite }: { discordInvite: string }) {
       <div className={styles.inner}>
         <Link href="/" className={styles.brand}>
           <img
-            src="/assets/logo.png"
+            src={assetPath("/assets/logo.png")}
             alt="Abyss Network"
             className={styles.logo}
           />
