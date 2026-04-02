@@ -54,7 +54,7 @@ export const metadata: Metadata = {
       "The ultimate Bee Swarm Simulator resource hub. Guides for every hive color, beequip stats, data spreadsheets, macro setups, and community-built tools.",
     images: [
       {
-        url: "https://abyssaltrench.net/assets/embed.png",
+        url: "https://abyssaltrench.net/assets/header.png",
         width: 1200,
         height: 630,
         alt: "Abyss Network ⋅ Bee Swarm Simulator Resources",
