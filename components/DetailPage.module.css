@@ -12,7 +12,8 @@
 .wrapper.expanded {
   max-width: 100%;
   padding: 12px;
-  height: calc(100vh - 64px);
+  height: calc(100vh - 65px);
+  overflow: hidden;
 }
 
 .header {

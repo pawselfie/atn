@@ -12,7 +12,7 @@ export default function Hero({ discordInvite }: { discordInvite: string }) {
         <h1 className={styles.title}>Abyssal Trench Network</h1>
         <p className={styles.subtitle}>Clarity in the dark</p>
         <p className={styles.tagline}>
-          Tools, guides, and data sheets crafted for the community.
+          The ultimate collection of Bee Swarm Simulator resources.
         </p>
         <a
           href={discordInvite}
